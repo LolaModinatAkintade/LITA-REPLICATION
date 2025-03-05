@@ -1,0 +1,43 @@
+body{
+    padding: 20px;
+    margin: 50px;
+    overflow-x: hidden;
+    /* box-sizing: border-box; */
+    /* font-family: Times New Roman, Times, serif; */
+}
+.first{
+    font-size: 3rem;
+}
+.look{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    gap: 5rem; 
+    width: 500px;
+}
+.looka{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+.looka img{
+    
+    width: 400px;
+    height: 300px;
+}
+.lookb h1, p{
+    
+    font-size: 1.rem;
+   
+}
+.lastn{
+    text-align: end;
+    opacity: 0.2;
+    font-size: 0.8rem;
+}
+.lasth{
+    text-align: end;
+    
+    font-size: 0.8rem;
+}
